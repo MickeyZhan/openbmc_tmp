@@ -2,7 +2,7 @@
 #define TEST_MACRO "XXX"
 int main(int argc, char **argv)
 {
-	printf("Hello World!\n");
-	printf("this is a test code\n");
+	printf("Hello World!xxx\n");
+	printf("this is a test ssss code\n");
 	return 0;
 }
